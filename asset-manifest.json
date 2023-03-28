@@ -5,8 +5,8 @@
     "static/js/1.916509f0.chunk.js": "/static/js/1.916509f0.chunk.js",
     "static/js/1.916509f0.chunk.js.map": "/static/js/1.916509f0.chunk.js.map",
     "main.css": "/static/css/main.ce98739d.chunk.css",
-    "main.js": "/static/js/main.9acda691.chunk.js",
-    "main.js.map": "/static/js/main.9acda691.chunk.js.map",
+    "main.js": "/static/js/main.7171ed2d.chunk.js",
+    "main.js.map": "/static/js/main.7171ed2d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.65a0a214.js",
     "runtime-main.js.map": "/static/js/runtime-main.65a0a214.js.map",
     "static/js/4.3bd43391.chunk.js": "/static/js/4.3bd43391.chunk.js",
@@ -44,6 +44,7 @@
     "static/media/finderBg.1107d1ce.svg": "/static/media/finderBg.1107d1ce.svg",
     "static/media/finderEgg.8268dfe1.svg": "/static/media/finderEgg.8268dfe1.svg",
     "static/media/finderMobileBg.5b89f60b.svg": "/static/media/finderMobileBg.5b89f60b.svg",
+    "static/media/gitbook.f5ee037b.svg": "/static/media/gitbook.f5ee037b.svg",
     "static/media/header.28363729.svg": "/static/media/header.28363729.svg",
     "static/media/headerBg.54764a44.svg": "/static/media/headerBg.54764a44.svg",
     "static/media/keeperEgg.6077b353.svg": "/static/media/keeperEgg.6077b353.svg",
@@ -54,7 +55,6 @@
     "static/media/metaMask.svg": "/static/media/metaMask.df847611.svg",
     "static/media/mobileHeader.b67224f8.svg": "/static/media/mobileHeader.b67224f8.svg",
     "static/media/myLevelBorder.daf2eddf.svg": "/static/media/myLevelBorder.daf2eddf.svg",
-    "static/media/paper-plane.502f3459.svg": "/static/media/paper-plane.502f3459.svg",
     "static/media/pending.dd69b699.svg": "/static/media/pending.dd69b699.svg",
     "static/media/portisIcon.png": "/static/media/portisIcon.f44aba13.png",
     "static/media/progress.857465e2.svg": "/static/media/progress.857465e2.svg",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.65a0a214.js",
     "static/js/4.3bd43391.chunk.js",
     "static/css/main.ce98739d.chunk.css",
-    "static/js/main.9acda691.chunk.js"
+    "static/js/main.7171ed2d.chunk.js"
   ]
 }
