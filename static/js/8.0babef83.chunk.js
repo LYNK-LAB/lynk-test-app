@@ -1,2 +1,0 @@
-(this["webpackJsonplynk-app"]=this["webpackJsonplynk-app"]||[]).push([[8],{787:function(n,p){},804:function(n,p){},810:function(n,p){},812:function(n,p){}}]);
-//# sourceMappingURL=8.0babef83.chunk.js.map
