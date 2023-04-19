@@ -5,8 +5,8 @@
     "static/js/1.cd6508b3.chunk.js": "/static/js/1.cd6508b3.chunk.js",
     "static/js/1.cd6508b3.chunk.js.map": "/static/js/1.cd6508b3.chunk.js.map",
     "main.css": "/static/css/main.c4f297d0.chunk.css",
-    "main.js": "/static/js/main.8e4d75e4.chunk.js",
-    "main.js.map": "/static/js/main.8e4d75e4.chunk.js.map",
+    "main.js": "/static/js/main.e8c7e329.chunk.js",
+    "main.js.map": "/static/js/main.e8c7e329.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c1fd6a7a.js",
     "runtime-main.js.map": "/static/js/runtime-main.c1fd6a7a.js.map",
     "static/css/4.f01ee8ce.chunk.css": "/static/css/4.f01ee8ce.chunk.css",
@@ -58,6 +58,8 @@
     "static/media/metaMask.svg": "/static/media/metaMask.df847611.svg",
     "static/media/mobileHeader.0bd5a9de.png": "/static/media/mobileHeader.0bd5a9de.png",
     "static/media/myLevelBorder.daf2eddf.svg": "/static/media/myLevelBorder.daf2eddf.svg",
+    "static/media/nodeNftBg.e14f6dac.png": "/static/media/nodeNftBg.e14f6dac.png",
+    "static/media/nodeNftMobileBg.233fb240.png": "/static/media/nodeNftMobileBg.233fb240.png",
     "static/media/pending.dd69b699.svg": "/static/media/pending.dd69b699.svg",
     "static/media/portisIcon.png": "/static/media/portisIcon.f44aba13.png",
     "static/media/progress.c5f346b0.png": "/static/media/progress.c5f346b0.png",
@@ -75,6 +77,6 @@
     "static/css/4.f01ee8ce.chunk.css",
     "static/js/4.ad1c99e4.chunk.js",
     "static/css/main.c4f297d0.chunk.css",
-    "static/js/main.8e4d75e4.chunk.js"
+    "static/js/main.e8c7e329.chunk.js"
   ]
 }
